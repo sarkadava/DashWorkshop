@@ -21,10 +21,10 @@ To get Python, you can for example download Anaconda, a common platform for this
 Anaconda: https://www.anaconda.com/download
 
 If you feel you need a guidance, you can follow one of many tutorials online. For instance:
-https://www.youtube.com/watch?v=YJC6ldI3hWk (for Mac)
-https://www.youtube.com/watch?v=UTqOXwAi1pE (for Windows)
+<ul><li>https://www.youtube.com/watch?v=YJC6ldI3hWk (for Mac)</li>
+<li>https://www.youtube.com/watch?v=UTqOXwAi1pE (for Windows)</li></ul>
 
-To be able to work with Python scripts, it is very convenient to have a text editor. Essentialy, this can be any software that can edit texts, I personally recommend Visual Studio Code (https://code.visualstudio.com/). Once you have it installed, you also need a Python extension in order to run code in VS Code. You can follow, for instance, this manual: https://www.datacamp.com/tutorial/setting-up-vscode-python
+To be able to work with Python scripts, it is very convenient to have a text editor. Essentialy, this can be any software that can edit texts, I personally recommend <b><a href="https://code.visualstudio.com/">Visual Studio Code</a></b>. Once you have it installed, you also need a Python extension in order to run code in VS Code. You can follow, for instance, this manual: https://www.datacamp.com/tutorial/setting-up-vscode-python
 
 ## Download the repository
 
