@@ -28,7 +28,9 @@ To be able to work with Python scripts, it is very convenient to have a text edi
 
 ## Download the repository
 
-Once you are all set up, click here on Code -> Download ZIP. This will download the repository we will work with during the workshop. 
+Once you are all set up, click here on <> Code and then <b>Download ZIP</b>. This will download the repository we will work with during the workshop. 
+
+![Alt text](image.png)
 
 ## Install necessary packages
 
