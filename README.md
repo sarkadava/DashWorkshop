@@ -2,13 +2,13 @@
 
 This repository stores the materials for a workshop on visualization of multimodal data, given at LOT Winter School (January 11, 2024, in Tilburg).
 
-It contains 
+<b>It contains 
 
 1. README file
 2. Slides
 3. Showcase app w/ data (not public)
 4. Template for dash app
-5. Practice data from SAGA dataset, used from https://github.com/WimPouw/envisionBOX_modulesSAGA/
+5. Practice data from SAGA dataset, used from https://github.com/WimPouw/envisionBOX_modulesSAGA/ </b>
 
 It also includes requirements.txt to install all necessary packages.
 
@@ -24,11 +24,12 @@ If you feel you need a guidance, you can follow one of many tutorials online. Fo
 <ul><li>https://www.youtube.com/watch?v=YJC6ldI3hWk (for Mac)</li>
 <li>https://www.youtube.com/watch?v=UTqOXwAi1pE (for Windows)</li></ul>
 
-To be able to work with Python scripts, it is very convenient to have a text editor. Essentialy, this can be any software that can edit texts, I personally recommend <b><a href="https://code.visualstudio.com/">Visual Studio Code</a></b>. Once you have it installed, you also need a Python extension in order to run code in VS Code. You can follow, for instance, this manual: https://www.datacamp.com/tutorial/setting-up-vscode-python
+To be able to work with Python scripts, it is very convenient to have a text editor. Essentialy, this can be any software that can edit texts, I personally recommend <b><a href="https://code.visualstudio.com/">Visual Studio Code</a></b>. Once you have it installed, you also need a Python extension in order to run code in VS Code. 
+You can follow, for instance, this manual: https://www.datacamp.com/tutorial/setting-up-vscode-python
 
 ## Download the repository
 
-Once you are all set up, click here on <> Code and then <b>Download ZIP</b>. This will download the repository we will work with during the workshop. 
+Once you are all set up, at the top of this page, click on <b><> Code</b> and then <b>Download ZIP</b>. This will download the repository we will work with during the workshop. 
 
 ![Alt text](image.png)
 
